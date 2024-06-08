@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KLKF11kktgoRZsPqpgqdbLJGmjbVXsvlfH9cMfaxl2c=",
+  "Source": "API_ODATA",
+  "BasePath": "_content/API_ODATA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
